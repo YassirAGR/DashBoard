@@ -1,1 +1,4 @@
 # DashBoard
+
+Procfile
+requirements
