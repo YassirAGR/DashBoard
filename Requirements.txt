@@ -1,0 +1,4 @@
+jupyter-dash
+dash
+yfinance
+plotly
